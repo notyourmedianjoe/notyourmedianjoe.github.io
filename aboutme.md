@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Maximiliano. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I spend my free time learning about OSes and how they work.
 
-What else do you need?
+Around the web my alias varies. In this ocasion I went with unaverage.net to teach how to move beyond what you get taught on university and keep your self-learning journey alive.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- [GitHub](https://github.com/notyourmedianjoe)
+- [LinkedIn](http://www.linkedin.com/in/mxi-dev)
+- Google+ (no link, because it's dead now ;))
+- Facebook- (no link, because I don't do Facebook ;))

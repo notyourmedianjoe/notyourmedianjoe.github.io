@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: unAVG(U) # the main title
+title: unAVG() # the main title
 
 tagline: Entries reflecting what I learned # it will display as the subtitle
 

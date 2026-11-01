@@ -3,6 +3,20 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+```js
+const user = {
+    "name": "Maximiliano",
+    "username": "notyourmedianjoe",
+    "dateCreated": "2000",
+    "location": "Belgium",
+    "languages": [],
+    "technologies": [],
+    "tools": ["JetBrains Rider", "Git", "Firefox dev tools"],
+    "system": "NT",
+    "website": "https://unaverage.net/",
+    "email": "yourmedianjoenot@duck.com",
+    "experience": {"C#":2026,"Linux": 2020},
+    "projects": [],
+    "social": ""
+}
+```

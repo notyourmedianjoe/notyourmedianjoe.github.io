@@ -5,7 +5,7 @@ order: 4
 ---
 ```js
 const user = {
-    "name": "Maximiliano",
+    "name": "Unaverage",
     "username": "notyourmedianjoe",
     "dateCreated": "2000",
     "location": "Belgium",

@@ -1,0 +1,25 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE settings
+.vs/
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Local configuration and secrets
+appsettings.Development.json
+secrets.json
+
+# OS files
+.DS_Store
+Thumbs.db
